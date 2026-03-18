@@ -26,7 +26,7 @@ Based in France. Secured AZ900 and Currently preparing for SC200.
 
 | Repository | Description |
 |---|---|
-| [infrastructure-security-assessment](https://github.com/MouaadSek/infrastructure-security-assessment) | Security audit — Nmap, HardeningKitty, Hayabusa, PowerShell |
+| [infrastructure-security-assessment](https://github.com/MouaadSek/infrastructure-security-assessment) | Security audit - Nmap, HardeningKitty, Hayabusa, PowerShell |
 | [python-devops-app](https://github.com/MouaadSek/python-devops-app) | Flask + Docker + Kaniko + Kubernetes + GitLab CI/CD |
 | [fleetman-kubernetes](https://github.com/MouaadSek/fleetman-kubernetes) | Microservices on multi-node Kubernetes cluster with kind |
 
