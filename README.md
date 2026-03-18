@@ -89,6 +89,6 @@ Based in France. Secured AZ900 and Currently preparing for SC200.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouaad-sekkouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekkouri/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" />
