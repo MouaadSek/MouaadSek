@@ -16,7 +16,7 @@ Based in France. Secured AZ900 and Currently preparing for SC200.
 |---|---|
 | **Active Directory Attack & Hardening Lab** | BloodHound, Kerberoasting, PingCastle |
 | **SOC Lab** | ELK Stack, Wazuh, custom detection rules |
-| **OWASP Top 10 Audit — Juice Shop** | Burp Suite, CVSS scoring |
+| **OWASP Top 10 Audit - Juice Shop** | Burp Suite, CVSS scoring |
 | **Cloud SIEM** | Azure Sentinel, KQL, Log Analytics |
 | **Supply Chain Security** | Trivy, OPA Gatekeeper |
 
