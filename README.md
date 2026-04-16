@@ -4,8 +4,7 @@
 
 ## About
 
-Cybersecurity M1 student focused on offensive security, cloud security, and DevSecOps.
-Building hands-on attack/defense labs alongside CI/CD pipelines and cloud-native security tooling.
+Cybersecurity M1 student, building hands-on experience.
 Based in France. Secured AZ900 and Currently preparing for SC200.
 
 ---
